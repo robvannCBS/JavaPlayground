@@ -10,5 +10,5 @@ Need the ability to expose Odds data by record ID.
 
 The program must have a main method that when executed…
  - Will instantiate a controller and any necessary dependency objects.
- - Invoke a method that will process input and return an Odds record.
+ - Invoke a method that will process input and return a record.
  - Print out a legible string representation of the retrieved record to the console.
